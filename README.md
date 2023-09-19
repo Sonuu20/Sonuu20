@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sonu Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **ReactJs**
 
 - 📫 How to reach me **sonugupta0208b@gmail.com**
 
