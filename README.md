@@ -61,6 +61,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sonuu20/Sonuu20/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/Sonuu20/Sonuu20/output/snake.svg](https://github.com/Sonuu20/Sonuu20/blob/main/snake.yml)https://github.com/Sonuu20/Sonuu20/blob/main/snake.yml" alt="Snake animation" />
 
 ###
