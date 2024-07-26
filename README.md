@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Sonu Gupta... and I'm a ...Frontend Developer, from ....Kolkata,India</h3>
+<h3 align="left">My name is Sonu Gupta... and I'm a Full Stack Developer, from ....Kolkata,India</h3>
 
 ###
 
